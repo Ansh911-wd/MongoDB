@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "208fea48-dc43-438e-a1cb-0d8005639abf",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1771350386117"
+        }
+      },
+      "favorite": {
+        "name": "Students"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
